@@ -19,6 +19,13 @@
     box-sizing: border-box;
 }
 
+html, body {
+    overflow-x: hidden;
+}
+body {
+    position: relative
+}
+
 body {
     background-color: #e3e0e0;
     color: #1c1a1a;
